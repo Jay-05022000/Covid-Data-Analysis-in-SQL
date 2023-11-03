@@ -1,7 +1,6 @@
 /* The aim for this project is to find meaningfull insights from the "Coronavirus Pandemic (COVID-19)" dataset which is
 published on 'https://ourworldindata.org/' website by using SQL skillsets.*/
 
-
 -- Selecting the requiredd data from the table.  
 
 select location,date,total_cases,new_cases,total_deaths,population
